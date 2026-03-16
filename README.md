@@ -124,10 +124,3 @@ Este proyecto fue desarrollado con fines educativos para practicar:
 
 **Julian David Murillo Puentes**
 
-Estudiante de programación interesado en el desarrollo de software y el aprendizaje de nuevas tecnologías.
-
----
-
-⭐ Proyecto para practicar **Java y Programación Orientada a Objetos**.
-
----
